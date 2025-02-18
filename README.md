@@ -12,7 +12,21 @@ This project is a web-based application that allows users to encrypt and decrypt
 - **User-Friendly Interface**: Simple and intuitive UI for input and output.
 
 ---
+## Acknowledgments
+- Inspired by classic cipher algorithms.
+- Built with C# .NET, HTML, CSS, and JavaScript.
 
+---
+## Usage
+- Select **Cipher Type**: Choose between Caesar, Playfair, or Monoalphabetic cipher.
+- Select **Operation**: Choose Encrypt or Decrypt.
+- Enter **Input**:
+- For **Caesar Cipher**: Enter the plain text and shift key.
+- For **Playfair Cipher**: Enter the plain text and key.
+- For **Monoalphabetic Cipher**: Enter the plain text.
+- Click **Do Operation** to see the result.
+
+---
 ## Prerequisites
 
 Before running the project, ensure you have the following installed:
