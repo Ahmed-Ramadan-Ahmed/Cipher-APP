@@ -19,7 +19,6 @@ Before running the project, ensure you have the following installed:
 
 1. **.NET SDK**: Required to run the C# backend.
    - Download and install from [.NET Downloads](https://dotnet.microsoft.com/download).
-2. **Web Browser**: Any modern web browser (e.g., Chrome, Firefox, Edge) to run the frontend.
 
 ---
 
