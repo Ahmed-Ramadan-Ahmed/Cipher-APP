@@ -38,12 +38,15 @@ Before running the project, ensure you have the following installed:
 
 ## Screenshots
 
-Here’s a screenshot of the app in action:
+Here’s a screenshots of the app in action:
 
-![App Screenshot](https://github.com/Ahmed-Ramadan-Ahmed/Cipher-Web-App/blob/main/ScreenShots/0.png).
-![App Screenshot](https://github.com/Ahmed-Ramadan-Ahmed/Cipher-Web-App/blob/main/ScreenShots/1.png).
-![App Screenshot](https://github.com/Ahmed-Ramadan-Ahmed/Cipher-Web-App/blob/main/ScreenShots/2.png).
-![App Screenshot](https://github.com/Ahmed-Ramadan-Ahmed/Cipher-Web-App/blob/main/ScreenShots/3.png).
-![App Screenshot](https://github.com/Ahmed-Ramadan-Ahmed/Cipher-Web-App/blob/main/ScreenShots/4.png).
+![App Screenshot](https://github.com/Ahmed-Ramadan-Ahmed/Cipher-Web-App/blob/main/ScreenShots/0.png)
+![App Screenshot](https://github.com/Ahmed-Ramadan-Ahmed/Cipher-Web-App/blob/main/ScreenShots/1.png)
+![App Screenshot](https://github.com/Ahmed-Ramadan-Ahmed/Cipher-Web-App/blob/main/ScreenShots/2.png)
+![App Screenshot](https://github.com/Ahmed-Ramadan-Ahmed/Cipher-Web-App/blob/main/ScreenShots/3.png)
+![App Screenshot](https://github.com/Ahmed-Ramadan-Ahmed/Cipher-Web-App/blob/main/ScreenShots/4.png)
+
+### Backend APIs:
+
 ![App Screenshot](https://github.com/Ahmed-Ramadan-Ahmed/Cipher-Web-App/blob/main/ScreenShots/5.png).
 
