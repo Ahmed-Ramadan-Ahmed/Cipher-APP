@@ -48,5 +48,4 @@ Here’s a screenshots of the app in action:
 
 ### Backend APIs:
 
-![App Screenshot](https://github.com/Ahmed-Ramadan-Ahmed/Cipher-Web-App/blob/main/ScreenShots/5.png).
-
+![App Screenshot](https://github.com/Ahmed-Ramadan-Ahmed/Cipher-Web-App/blob/main/ScreenShots/5.png)
