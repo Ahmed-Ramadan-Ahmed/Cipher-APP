@@ -43,5 +43,5 @@ Before running the project, ensure you have the following installed:
 Clone the project repository to your local machine:
 
 ```bash
-git clone https://github.com/Ahmed-Ramadan-Ahmed/Cipher-APP.git
+git clone https://github.com/Ahmed-Ramadan-Ahmed/Cipher-Web-App.git
 cd cipher-web-app
