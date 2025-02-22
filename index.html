@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cipher App</title>
+    <link rel="stylesheet" href="styles.css">
+    
+</head>
+<body class="container">
+    <div class="container">
+        <h1>Cipher App</h1>
+        <div class="form-group">
+            <label for="cipherType">Cipher Type:</label>
+            <select id="cipherType" required>
+                <option value="" disabled selected>Select a cipher</option>
+                <option value="caesar">Caesar</option>
+                <option value="playfair">Playfair</option>
+                <option value="monoalphabetic">Monoalphabetic</option>
+            </select>
+        </div>
+        <div class="form-group">
+            <label for="operation">Operation:</label>
+            <select id="operation" required>
+                <option value="" disabled selected>Select an operation</option>
+                <option value="encrypt">Encrypt</option>
+                <option value="decrypt">Decrypt</option>
+            </select>
+        </div>
+        <div class="form-group">
+            <label for="plainText">Plain Text:</label>
+            <input type="text" id="plainText" placeholder="Enter plain text">
+        </div>
+        <div class="form-group" id="shiftGroup">
+            <label for="shift">Shift:</label>
+            <input type="text" id="shift" placeholder="Enter shift key">
+        </div>
+        <div class="form-group" id="keyGroup">
+            <label for="key">Key:</label>
+            <input type="text" id="key" placeholder="Enter playfair key">
+        </div>
+        <button id="doOperation">Do Operation</button>
+        <div class="result">
+            <textarea
+                id="resultText" 
+                rows="5" cols="50" 
+                placeholder="Result will be displayed here" 
+                style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; margin: 20px 0px;"
+                readonly ></textarea>
+        </div>
+    </div>
+    
+    <script src="scripts.js"></script>
+</body>
+</html>
+
