@@ -1,0 +1,36 @@
+E:\Acadymic\Encryption & Decryption\Encryption & Decryption APP\.Net Web\Encryption & decryption APP\bin\Debug\net8.0\appsettings.Development.json
+E:\Acadymic\Encryption & Decryption\Encryption & Decryption APP\.Net Web\Encryption & decryption APP\bin\Debug\net8.0\appsettings.json
+E:\Acadymic\Encryption & Decryption\Encryption & Decryption APP\.Net Web\Encryption & decryption APP\bin\Debug\net8.0\Encryption & decryption APP.staticwebassets.endpoints.json
+E:\Acadymic\Encryption & Decryption\Encryption & Decryption APP\.Net Web\Encryption & decryption APP\bin\Debug\net8.0\Encryption & decryption APP.exe
+E:\Acadymic\Encryption & Decryption\Encryption & Decryption APP\.Net Web\Encryption & decryption APP\bin\Debug\net8.0\Encryption & decryption APP.deps.json
+E:\Acadymic\Encryption & Decryption\Encryption & Decryption APP\.Net Web\Encryption & decryption APP\bin\Debug\net8.0\Encryption & decryption APP.runtimeconfig.json
+E:\Acadymic\Encryption & Decryption\Encryption & Decryption APP\.Net Web\Encryption & decryption APP\bin\Debug\net8.0\Encryption & decryption APP.dll
+E:\Acadymic\Encryption & Decryption\Encryption & Decryption APP\.Net Web\Encryption & decryption APP\bin\Debug\net8.0\Encryption & decryption APP.pdb
+E:\Acadymic\Encryption & Decryption\Encryption & Decryption APP\.Net Web\Encryption & decryption APP\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Acadymic\Encryption & Decryption\Encryption & Decryption APP\.Net Web\Encryption & decryption APP\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Acadymic\Encryption & Decryption\Encryption & Decryption APP\.Net Web\Encryption & decryption APP\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Acadymic\Encryption & Decryption\Encryption & Decryption APP\.Net Web\Encryption & decryption APP\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Acadymic\Encryption & Decryption\Encryption & Decryption APP\.Net Web\Encryption & decryption APP\obj\Debug\net8.0\Encryption & decryption APP.csproj.AssemblyReference.cache
+E:\Acadymic\Encryption & Decryption\Encryption & Decryption APP\.Net Web\Encryption & decryption APP\obj\Debug\net8.0\Encryption & decryption APP.GeneratedMSBuildEditorConfig.editorconfig
+E:\Acadymic\Encryption & Decryption\Encryption & Decryption APP\.Net Web\Encryption & decryption APP\obj\Debug\net8.0\Encryption & decryption APP.AssemblyInfoInputs.cache
+E:\Acadymic\Encryption & Decryption\Encryption & Decryption APP\.Net Web\Encryption & decryption APP\obj\Debug\net8.0\Encryption & decryption APP.AssemblyInfo.cs
+E:\Acadymic\Encryption & Decryption\Encryption & Decryption APP\.Net Web\Encryption & decryption APP\obj\Debug\net8.0\Encryption & decryption APP.csproj.CoreCompileInputs.cache
+E:\Acadymic\Encryption & Decryption\Encryption & Decryption APP\.Net Web\Encryption & decryption APP\obj\Debug\net8.0\Encryption & decryption APP.MvcApplicationPartsAssemblyInfo.cs
+E:\Acadymic\Encryption & Decryption\Encryption & Decryption APP\.Net Web\Encryption & decryption APP\obj\Debug\net8.0\Encryption & decryption APP.MvcApplicationPartsAssemblyInfo.cache
+E:\Acadymic\Encryption & Decryption\Encryption & Decryption APP\.Net Web\Encryption & decryption APP\obj\Debug\net8.0\scopedcss\bundle\Encryption & decryption APP.styles.css
+E:\Acadymic\Encryption & Decryption\Encryption & Decryption APP\.Net Web\Encryption & decryption APP\obj\Debug\net8.0\staticwebassets.build.json
+E:\Acadymic\Encryption & Decryption\Encryption & Decryption APP\.Net Web\Encryption & decryption APP\obj\Debug\net8.0\staticwebassets.development.json
+E:\Acadymic\Encryption & Decryption\Encryption & Decryption APP\.Net Web\Encryption & decryption APP\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\Acadymic\Encryption & Decryption\Encryption & Decryption APP\.Net Web\Encryption & decryption APP\obj\Debug\net8.0\staticwebassets\msbuild.Encryption & decryption APP.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Acadymic\Encryption & Decryption\Encryption & Decryption APP\.Net Web\Encryption & decryption APP\obj\Debug\net8.0\staticwebassets\msbuild.Encryption & decryption APP.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\Acadymic\Encryption & Decryption\Encryption & Decryption APP\.Net Web\Encryption & decryption APP\obj\Debug\net8.0\staticwebassets\msbuild.build.Encryption & decryption APP.props
+E:\Acadymic\Encryption & Decryption\Encryption & Decryption APP\.Net Web\Encryption & decryption APP\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Encryption & decryption APP.props
+E:\Acadymic\Encryption & Decryption\Encryption & Decryption APP\.Net Web\Encryption & decryption APP\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Encryption & decryption APP.props
+E:\Acadymic\Encryption & Decryption\Encryption & Decryption APP\.Net Web\Encryption & decryption APP\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Acadymic\Encryption & Decryption\Encryption & Decryption APP\.Net Web\Encryption & decryption APP\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\Acadymic\Encryption & Decryption\Encryption & Decryption APP\.Net Web\Encryption & decryption APP\obj\Debug\net8.0\Encrypti.F97609F6.Up2Date
+E:\Acadymic\Encryption & Decryption\Encryption & Decryption APP\.Net Web\Encryption & decryption APP\obj\Debug\net8.0\Encryption & decryption APP.dll
+E:\Acadymic\Encryption & Decryption\Encryption & Decryption APP\.Net Web\Encryption & decryption APP\obj\Debug\net8.0\refint\Encryption & decryption APP.dll
+E:\Acadymic\Encryption & Decryption\Encryption & Decryption APP\.Net Web\Encryption & decryption APP\obj\Debug\net8.0\Encryption & decryption APP.pdb
+E:\Acadymic\Encryption & Decryption\Encryption & Decryption APP\.Net Web\Encryption & decryption APP\obj\Debug\net8.0\Encryption & decryption APP.genruntimeconfig.cache
+E:\Acadymic\Encryption & Decryption\Encryption & Decryption APP\.Net Web\Encryption & decryption APP\obj\Debug\net8.0\ref\Encryption & decryption APP.dll

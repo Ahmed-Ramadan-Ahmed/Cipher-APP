@@ -1,0 +1,6 @@
+@Encryption___decryption_APP_HostAddress = http://localhost:5157
+
+GET {{Encryption___decryption_APP_HostAddress}}//
+Accept: application/json
+
+###
