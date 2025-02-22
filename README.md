@@ -31,7 +31,7 @@ This project is a web-based application that allows users to encrypt and decrypt
 
 Before running the project, ensure you have the following installed:
 
-1. **.NET SDK**: Required to run the C# backend.
+**.NET SDK**: Required to run the C# backend.
    - Download and install from [.NET Downloads](https://dotnet.microsoft.com/download).
 
 ---
