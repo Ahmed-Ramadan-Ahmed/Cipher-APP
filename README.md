@@ -36,12 +36,13 @@ Before running the project, ensure you have the following installed:
 
 ---
 
-## Setup Instructions
+## Screenshots
 
-### 1. Clone the Repository
+Here’s a screenshot of the app in action:
 
-Clone the project repository to your local machine:
-
-```bash
-git clone https://github.com/Ahmed-Ramadan-Ahmed/Cipher-Web-App.git
-cd cipher-web-app
+![App Screenshot](https://github.com/Ahmed-Ramadan-Ahmed/Cipher-Web-App/main/ScreenShots/0.png).
+![App Screenshot](https://github.com/Ahmed-Ramadan-Ahmed/Cipher-Web-App/main/ScreenShots/1.png).
+![App Screenshot](https://github.com/Ahmed-Ramadan-Ahmed/Cipher-Web-App/main/ScreenShots/2.png).
+![App Screenshot](https://github.com/Ahmed-Ramadan-Ahmed/Cipher-Web-App/main/ScreenShots/3.png).
+![App Screenshot](https://github.com/Ahmed-Ramadan-Ahmed/Cipher-Web-App/main/ScreenShots/4.png).
+![App Screenshot](https://github.com/Ahmed-Ramadan-Ahmed/Cipher-Web-App/main/ScreenShots/5.png).
